@@ -1,0 +1,17 @@
+{
+  "name": "blog-app",
+  "version": "1.0.0",
+  "description": "A simple blogging app with CRUD functionality.",
+  "main": "app.js",
+  "author": "Jaimin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^7.0.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-sanitizer": "^1.0.5",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.4.19"
+  }
+}
